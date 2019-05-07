@@ -2,7 +2,8 @@
 SQLyog Ultimate v10.00 Beta1
 MySQL - 5.5.5-10.1.32-MariaDB : Database - todoappdb
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -175,7 +176,7 @@ CREATE TABLE `users` (
 
 /*Data for the table `users` */
 
-insert  into `users`(`id`,`firstname`,`lastname`,`username`,`user_type`,`password`,`email`,`activkey`,`create_at`,`lastvisit_at`,`superuser`,`status`) values (1,'Propeller','Digital','tabitha.alexander@mindera.com','Admin','tabitha.alexander@mindera.com','subinsugunan49@gmail.com','5af95e2886dbb','2017-01-16','0000-00-00 00:00:00',1,1);
+insert  into `users`(`id`,`firstname`,`lastname`,`username`,`user_type`,`password`,`email`,`activkey`,`create_at`,`lastvisit_at`,`superuser`,`status`) values (1,'Mindera','UK','tabitha.alexander@mindera.com','Admin','tabitha.alexander@mindera.com','subinsugunan49@gmail.com','5af95e2886dbb','2017-01-16','0000-00-00 00:00:00',1,1);
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
