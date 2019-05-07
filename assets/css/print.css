@@ -1,0 +1,58 @@
+/***
+Import fonts
+***/
+.header {
+	display: none;
+}
+
+.page-sidebar {
+	display: none;
+}
+
+.color-panel {
+	display: none;
+}
+
+.hidden-print {
+	display: none;
+}
+
+.footer {
+	display: none;
+}
+
+.no-page-break {
+	page-break-after: avoid;
+}
+
+.page-container {
+	margin: 0px;
+	padding: 0px;
+}
+
+.page-content {
+	min-height: auto !important;
+}
+.task-top {
+	display: none;
+}
+.task-left {
+	display: none;
+}
+.search-widget {
+	display: none;
+}
+.task-list .task-title-sp {
+    font-size: 12px;
+    font-family: "Conv_GothamHTF-Medium";
+    color: #a7a9ac !important;
+    cursor: pointer;
+    padding: 0 160px 0 23px;
+    display: block;
+}
+.task-over-due {
+    color: #f45d5d !important;
+}
+
+
+.task-right .tasks-widget .task-list > li{ border-bottom:1px solid #f9f9f9}

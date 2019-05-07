@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(../fonts/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../fonts/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(../fonts/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+	font-family: 'Conv_Gotham-Bold';
+	src: url('Gotham-Bold.eot');
+	src: url('Gotham-Bold.woff') format('woff'), url('Gotham-Bold.ttf') format('truetype'), url('Gotham-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_GothamHTF-Book';
+	src: url('GothamHTF-Book.eot');
+	src: url('GothamHTF-Book.woff') format('woff'), url('GothamHTF-Book.ttf') format('truetype'), url('GothamHTF-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_GothamHTF-Medium';
+	src: url('GothamHTF-Medium.eot');
+	src: url('GothamHTF-Medium.woff') format('woff'), url('GothamHTF-Medium.ttf') format('truetype'), url('GothamHTF-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_Gotham-Light';
+	src: url('Gotham-Light.eot');
+	src: url('Gotham-Light.woff') format('woff'), url('Gotham-Light.ttf') format('truetype'), url('Gotham-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_Gotham-Thin';
+	src: url('GothamHTF-Thin.eot');
+	src: url('GothamHTF-Thin.woff') format('woff'), url('GothamHTF-Thin.ttf') format('truetype'), url('GothamHTF-Thin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
